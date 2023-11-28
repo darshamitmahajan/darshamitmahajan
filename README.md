@@ -30,4 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshamitmahajan&show_icons=true&locale=en&layout=compact" alt="darshamitmahajan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshamitmahajan&show_icons=true&locale=en" alt="darshamitmahajan" /></p>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
